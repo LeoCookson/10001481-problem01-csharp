@@ -1,0 +1,10 @@
+C:\Users\10001481\Desktop\Problem01-csharp\bin\Debug\netcoreapp2.0\Problem01-csharp.deps.json
+C:\Users\10001481\Desktop\Problem01-csharp\bin\Debug\netcoreapp2.0\Problem01-csharp.runtimeconfig.json
+C:\Users\10001481\Desktop\Problem01-csharp\bin\Debug\netcoreapp2.0\Problem01-csharp.runtimeconfig.dev.json
+C:\Users\10001481\Desktop\Problem01-csharp\bin\Debug\netcoreapp2.0\Problem01-csharp.dll
+C:\Users\10001481\Desktop\Problem01-csharp\bin\Debug\netcoreapp2.0\Problem01-csharp.pdb
+C:\Users\10001481\Desktop\Problem01-csharp\obj\Debug\netcoreapp2.0\Problem01-csharp.csproj.CoreCompileInputs.cache
+C:\Users\10001481\Desktop\Problem01-csharp\obj\Debug\netcoreapp2.0\Problem01-csharp.AssemblyInfoInputs.cache
+C:\Users\10001481\Desktop\Problem01-csharp\obj\Debug\netcoreapp2.0\Problem01-csharp.AssemblyInfo.cs
+C:\Users\10001481\Desktop\Problem01-csharp\obj\Debug\netcoreapp2.0\Problem01-csharp.dll
+C:\Users\10001481\Desktop\Problem01-csharp\obj\Debug\netcoreapp2.0\Problem01-csharp.pdb
